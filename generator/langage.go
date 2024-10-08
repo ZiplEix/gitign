@@ -14,7 +14,7 @@ var langagesExtensions = map[string]Langage{
 	".py":    {"Python", "Python", true, "https://raw.githubusercontent.com/github/gitignore/refs/heads/main/Python.gitignore"},
 	".java":  {"Java", "Java", true, "https://raw.githubusercontent.com/github/gitignore/refs/heads/main/Java.gitignore"},
 	".rb":    {"Ruby", "Ruby", true, "https://raw.githubusercontent.com/github/gitignore/refs/heads/main/Ruby.gitignore"},
-	".php":   {"PHP", "PHP", true, ""},
+	".php":   {"PHP", "PHP", true, "https://raw.githubusercontent.com/ZiplEix/gitign/refs/heads/master/templates/PHP.gitignore"},
 	".cs":    {"C#", "C#", true, "https://raw.githubusercontent.com/github/gitignore/refs/heads/main/VisualStudio.gitignore"},
 	".cpp":   {"C++", "C++", true, "https://raw.githubusercontent.com/github/gitignore/refs/heads/main/C%2B%2B.gitignore"},
 	".c":     {"C", "C", true, "https://raw.githubusercontent.com/github/gitignore/refs/heads/main/C.gitignore"},
