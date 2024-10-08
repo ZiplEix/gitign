@@ -1,0 +1,30 @@
+# Ignore PHP Composer files
+/vendor/
+composer.lock
+
+# Ignore PHPStorm project files
+.idea/
+*.iml
+
+# Ignore PHPUnit test results
+phpunit.xml
+phpunit.xml.dist
+/tests/_output/
+
+# Ignore the build directory
+/build/
+
+# Ignore cache files
+/cache/
+*.cache
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+.env.local
+.env.*.local
+
+# Ignore session files
+session.save_path/
